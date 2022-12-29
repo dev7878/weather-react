@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4c93735c.css",
-    "main.js": "/react-gh-pages/static/js/main.ea959289.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4c93735c.css.map": "/react-gh-pages/static/css/main.4c93735c.css.map",
-    "main.ea959289.js.map": "/react-gh-pages/static/js/main.ea959289.js.map"
+    "main.css": "/weather-react/static/css/main.4c93735c.css",
+    "main.js": "/weather-react/static/js/main.ea959289.js",
+    "index.html": "/weather-react/index.html",
+    "main.4c93735c.css.map": "/weather-react/static/css/main.4c93735c.css.map",
+    "main.ea959289.js.map": "/weather-react/static/js/main.ea959289.js.map"
   },
   "entrypoints": [
     "static/css/main.4c93735c.css",
