@@ -8,7 +8,7 @@ import getFormattedWeatherData from "./services/weatherService";
 import { useEffect, useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-
+// dev
 function App() {
   const [query, setQuery] = useState({ q: "Toronto" });
   const [units, setUnits] = useState("metric");
